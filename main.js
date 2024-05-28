@@ -6,3 +6,5 @@ console.log("main.js file connected!");
 // Attach event listeners for the online and offline events to dynamically update the status.
 // Initially set the online status when the page loads.
 // Fetch weather data and update the DOM.
+
+// https://api.open-meteo.com/v1/forecast?latitude=45&longitude=-75&hourly=temperature_2m
